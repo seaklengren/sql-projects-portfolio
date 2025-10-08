@@ -41,7 +41,6 @@ The goal is to answer **key business questions** through **SQL queries** and dat
 | Category | Which product categories deliver strong margins? |
 | Store | Which locations perform best? |
 | Customer | How do loyalty tiers behave? |
-| Operations | Are we meeting shipping and service expectations? |
 
 ---
 
@@ -62,7 +61,6 @@ The goal is to answer **key business questions** through **SQL queries** and dat
 | `fulfillment_channel` | Online / Pickup / In-Store |
 | `quantity`, `unit_price`, `discount_rate` | Pricing and volume |
 | `sales_amount`, `profit`, `margin_percent` | Performance metrics |
-| `days_to_ship` | Operational efficiency |
 
 ---
 
